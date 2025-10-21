@@ -19,7 +19,7 @@ Active Status View - ![active status view](active_status_view.png)
 - Flexbox for layout
 
 ## 🚀 Live Demo
-👉 [View Live on Netlify](https://your-deployed-link.netlify.app) <!-- replace with your link -->
+👉 [View Live on Vercel](https://social-links-profile-eight-alpha.vercel.app/)
 
 ## 🔗 Profile Links
 
